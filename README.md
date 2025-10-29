@@ -4,7 +4,7 @@ This project is part of **Week 1 - C Skill Up Course** on GeeksforGeeks.
 It is a simple calculator program written in C that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 
-## 🧮 Features
+## Features
 - Takes two numbers as input
 - Performs:
   - Addition
@@ -15,7 +15,7 @@ It is a simple calculator program written in C that performs basic arithmetic op
 - Handles invalid input safely
 
 
-## 🧠 Concepts Used
+## Concepts Used
 This project demonstrates the use of:
 - `printf()` and `scanf()` for input/output  
 - Variables and data types (`float`, `int`)  
@@ -23,11 +23,11 @@ This project demonstrates the use of:
 - Looping (`do-while` loop)
 
 
-## ⚙️ Code Information
+## Code Information
 The calculator continues running until the user chooses to exit.  
 If division by zero is attempted, the program displays an error message.
 
 
-## ✨ Acknowledgement
+## Acknowledgement
 This program was written as part of my C learning journey.  
 Some improvements (like input validation) were added with help from a friend to make it more robust.
